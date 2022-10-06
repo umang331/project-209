@@ -4,7 +4,7 @@ import os
 
 
 IP_ADDRESS = '127.0.0.1'
-PORT = 8080
+PORT = 5500
 SERVER = None
 BUFFER_SIZE = 4096
 clients = {}
