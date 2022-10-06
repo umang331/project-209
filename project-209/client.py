@@ -7,7 +7,7 @@ from playsound import playsound
 import pygame
 from pygame import mixer
 
-PORT = 8050
+PORT = 5500
 IP_ADDRESS = '127.0.0.1'
 SERVER = None
 BUFFER_SIZE = 4096
